@@ -39,7 +39,7 @@ My research focuses on the genomic mechanisms that drive neurodegeneration in Al
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IMG_2953.JPG"
   link="research"
   title="My Research"
   text=text
