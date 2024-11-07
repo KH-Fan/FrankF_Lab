@@ -63,7 +63,7 @@ Alzheimer Biomarkers Consortium — Down Syndrome (ABC-DS)
 
 {%
   include feature.html
-  image="images/Amelia_1"
+  image="images/Amelia_1.png"
   link="projects"
   title="My Projects"
   flip=true
