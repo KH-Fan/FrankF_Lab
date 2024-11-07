@@ -88,7 +88,7 @@ Hoonee Fan
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IMG_1541.JPG"
   link="team"
   title="Our Team"
   text=text
